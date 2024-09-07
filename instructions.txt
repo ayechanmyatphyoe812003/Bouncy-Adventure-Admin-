@@ -1,0 +1,5 @@
+Instrutions to run Admin Dashboard
+-----------------------------------
+
+-right click on folder and open in terminal
+> flask run
